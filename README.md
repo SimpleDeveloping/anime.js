@@ -1,4 +1,4 @@
-s<h1 align="center">Welcome to anime.js 👋</h1>
+<h1 align="center">Welcome to anime.js 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/npm/v/@freezegold/anime.js?orange=blue" />
   <a href="https://www.npmjs.com/package/@freezegold/anime.js">
@@ -12,11 +12,11 @@ s<h1 align="center">Welcome to anime.js 👋</h1>
   </a>
 </p>
 
-## Instaletion 
+## Installation 
 
-`npm i @freezegole/anime.js --save`
+`npm i @freezegold/anime.js --save`
 
-## example
+## Examples
 
 ```js
 const animeJs = require('@freezegold/anime.js');
