@@ -1,11 +1,11 @@
-| parament             | type    | eaxmple                                                                 |
+| parament             | type    | example                                                                 |
 |----------------------|---------|-------------------------------------------------------------------------|
 | id                   | number  | 7442                                                                    |
 | type                 | string  | anime                                                                   |
 | synopsis             | string  | 'Centuries ago, mankind was...                                          |
 | title.en             | string  | Attack on Titan                                                         |
 | tile.romaji          | string  | Shingeki no Kyojin                                                      |
-| title.japanse        | string  | 進撃の巨                                                                |
+| title.japanse        | string  | 進撃の巨                                                                 |
 | averageRating        | number  | 83.92                                                                   |
 | ratingFrequencies    | object  | 2: 6682...                                                              |
 | userCount            | number  | 324125                                                                  |
@@ -29,5 +29,5 @@
 | episodeCount         | number  | 25                                                                      |
 | episodeLength        | number  | 24                                                                      |
 | showType             | string  | TV                                                                      |
-| nsfw                 | boolen  | false                                                                   |
+| nsfw                 | boolean | false                                                                   |
 | youtubeVideoId       | url     | https://www.youtube.com/watch?v=LHtdKWJdif4                             |
